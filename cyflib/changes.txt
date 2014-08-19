@@ -1,0 +1,49 @@
+VERSIÓN 1.1
+
++ Agregada la clase GetPassword()
+* Optimizada la velocidad de carga
+
+VERSIÓN 1.0
+
++ Agregada la clase SQL()
+* Solucionados algunos bugs.
+* Modificación de la documentación.
+
+VERSIÓN 0.1
+
+* Arreglado diferentes bugs que impedian utilitzar la librería en la versión 0.0.9
+
+VERSIÓN 0.0.9
+
++ Añadida la clase RSA()
+* Arreglo de código principal. Los módulos solo se importan si se utilizan, no siempre que se inicie CyfLib.
+
+VERSIÓN 0.0.8
+
++ Añadida la clase Colors()
+
+VERSIÓN 0.0.7
+
+* Arreglado bugs de la clase BitCoin.
+
+VERSIÓN 0.0.6
+
++ Se añade el gestor de configuración
+
+VERSIÓN 0.0.4/0.0.5
+
++ Se arreglan algunos bugs de la instalación de CyfLib y de los paquetes de PyPi
+
+VERSIÓN 0.0.3
+
++ Se añade la clase BitCoin()
++ Se añaden los archivos de licencia, cambios y leeme.
++ Se sube el proyecto a Pypi.
+
+VERSIÓN 0.0.2 (No disponible para descargar)
+
++ Se añade la clase ProgressBar()
+
+VERSIÓN 0.0.1 (No disponible para descargar)
+
++ Creación de la librería

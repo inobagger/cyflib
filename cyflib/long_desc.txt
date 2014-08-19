@@ -1,0 +1,27 @@
+======
+CyfLib
+======
+
+Cyfnet Python Library (CyfLib) es una librería de código abierto para python. Lo que se pretende con esta librería es facilitar la escritura del código en Python y añadir funciones adicionales.
+
+Clases
+======
+
+En CyfLib hay diferentes clases, cada una con funcionalidades diferentes. 
+
+* **ProgressBar**. Construcción de barras de progreso en consola extremadamente personalizables.
+
+* **BitCoin**. Funciones relacionadas con BitCoin sin conectarse a la red.
+
+* **ConfigManager**. Creación de archivos de configuración.
+
+* **Colors**. Se pueden personalizar los mensajes de la terminal con colores. *Solo funciona en Linux*.
+
+* **RSA**. Permite usar el agolritmo RSA relacionado con la criptografía asimétrica.
+
+* **SQL**. Permite usar SQLLite de una manera sencilla. 
+
+Información de las clases
+-------------------------
+
+Puedes encontrar más información en http://cyfnet.com/cyflib
